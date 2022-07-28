@@ -10,7 +10,7 @@ export default class  extends Component {
     return (
       <>
         <Navbar />
-        <News/>
+        <News pageSize = {5} country = {'in'} category = {'general'}/>
         <Footer />
       </>
     )
