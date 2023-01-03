@@ -10,7 +10,7 @@ function Footer({ darkMode }){
         <footer className={`text-center text-lg-start bg-${darkMode} text-muted`}>
         <div className="text-center p-4" style = {myStyle} >
             © 2022 Copyright:
-            <a className="text-reset fw-bold" href="https://www.linkedin.com/in/indrajit-pal-a17975218/">iNDRAjiT</a>
+            <a className="text-reset fw-bold" href="https://www.linkedin.com/in/indrajit-pal-a17975218/"> iNDRAjiT</a>
         </div>
         </footer>
         </>
